@@ -6,5 +6,3 @@
 
 ## Changes to send to remote
 
-Changed
-
